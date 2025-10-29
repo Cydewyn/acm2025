@@ -1,0 +1,26 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/image_defs.rpy", line 24: end of line expected.
+    broad_daylight
+    ^
+
+File "game/image_defs.rpy", line 28: end of line expected.
+    cloudy_daylight
+    ^
+
+File "game/image_defs.rpy", line 32: end of line expected.
+    overcast
+    ^
+
+File "game/image_defs.rpy", line 36: end of line expected.
+    dark
+    ^
+
+File "game/image_defs.rpy", line 40: end of line expected.
+    night
+    ^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Fri Oct 24 14:05:10 2025

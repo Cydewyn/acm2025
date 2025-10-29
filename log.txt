@@ -1,0 +1,29 @@
+2025-10-29 21:11:33 UTC
+Windows-11-10.0.26200-SP0
+Ren'Py 8.4.1.25072401
+
+Early init took 37 ms
+Loading error handling took 94 ms
+Loading script took 665 ms
+Loading save slot metadata took 20 ms
+Loading persistent took 0 ms
+Running init code took 85 ms
+Loading analysis data took 0 ms
+Analyze and compile ATL took 3 ms
+Reloading save slot metadata took 9 ms
+Backing up script files to 'C:\\Users\\clair\\AppData\\Roaming/RenPy/backups\\The Lost Isle':
+Dump and make backups took 30 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 27 ms
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 170 ms
+Init translation took 0 ms
+Cleaning stores took 1 ms
+Load screen analysis took 0 ms
+Analyze screens took 16 ms
+Save screen analysis took 7 ms
+Save pyanalysis took 3 ms
+Save bytecode took 0 ms
