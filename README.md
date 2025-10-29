@@ -7,5 +7,5 @@
   The isle is a dream-like environment, with stained-glass-esque artwork and changing lighting available through color tints. 
   As Harker moves around the isle, the time of day can shift to change saturation and represent the changing day, night, and weather.
   This also allows for shifting lights behind characters to represent emotions. 
-  A pitch deck is here: <a href="https://www.canva.com/design/DAG3NRkF2VU/2q5t7Cz-uqXjI0AhiwwjqA/edit?utm_content=DAG3NRkF2VU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+  A pitch deck is here: [Pitch Deck](https://www.canva.com/design/DAG3NRkF2VU/2q5t7Cz-uqXjI0AhiwwjqA/edit?utm_content=DAG3NRkF2VU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 </p>
